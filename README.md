@@ -17,6 +17,9 @@ This repository is part of my journey to improve my **problem-solving skills, pr
 
 Languages and exercises will be added as I progress.
 
+* Python
+* JavaScript
+* PHP
 ---
 
 > Learning by solving, making mistakes, and trying again. ♡
